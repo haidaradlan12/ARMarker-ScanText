@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="wrestled" size="1.000000 0.763889" />
+    <ImageTarget name="voyage" size="1.000000 0.751613" />
+    <ImageTarget name="veterinarians" size="1.000000 0.813953" />
+    <ImageTarget name="utensils" size="1.000000 0.880309" />
+    <ImageTarget name="turrets" size="1.000000 0.642599" />
+    <ImageTarget name="swine" size="1.000000 1.222222" />
+    <ImageTarget name="swiftly" size="1.000000 0.862595" />
+    <ImageTarget name="suited" size="1.000000 0.924188" />
+    <ImageTarget name="spatial" size="1.000000 0.576471" />
+    <ImageTarget name="shrubs" size="1.000000 1.099206" />
+    <ImageTarget name="scheme" size="1.000000 0.708861" />
+    <ImageTarget name="scattered" size="1.000000 0.585752" />
+    <ImageTarget name="recompense" size="1.000000 0.675241" />
+    <ImageTarget name="punches" size="1.000000 0.752294" />
+    <ImageTarget name="precise" size="1.000000 0.651090" />
+    <ImageTarget name="perpendicular" size="1.000000 0.717579" />
+    <ImageTarget name="occasional" size="1.000000 0.831034" />
+    <ImageTarget name="obstacles" size="1.000000 0.628986" />
+    <ImageTarget name="obliged" size="1.000000 0.789655" />
+    <ImageTarget name="lentils" size="1.000000 0.554517" />
+    <ImageTarget name="lawn" size="1.000000 0.747331" />
+    <ImageTarget name="impinge" size="1.000000 0.770909" />
+    <ImageTarget name="houmous" size="1.000000 0.615385" />
+    <ImageTarget name="horrible" size="1.000000 0.690476" />
+    <ImageTarget name="grips" size="1.000000 1.242604" />
+    <ImageTarget name="geyser" size="1.000000 0.607038" />
+    <ImageTarget name="flanked" size="1.000000 0.769231" />
+    <ImageTarget name="ditch" size="1.000000 0.915254" />
+    <ImageTarget name="disposal" size="1.000000 0.734940" />
+    <ImageTarget name="determined" size="1.000000 0.563492" />
+    <ImageTarget name="confederation" size="1.000000 0.516854" />
+    <ImageTarget name="concocted" size="1.000000 0.520115" />
+    <ImageTarget name="coincidence" size="1.000000 0.490338" />
+    <ImageTarget name="aubergines" size="1.000000 0.847015" />
+    <ImageTarget name="attempt" size="1.000000 0.447293" />
+    <ImageTarget name="adjacent" size="1.000000 0.415042" />
+  </Tracking>
+</QCARConfig>
